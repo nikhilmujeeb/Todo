@@ -1,6 +1,6 @@
 {
   "name": "todo-react",
-  "homepage" : "https://nikhilmujeeb.github.io/Todo/",
+  "homepage" : "https://nikhilmujeeb.github.io/Todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
